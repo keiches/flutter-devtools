@@ -1,13 +1,13 @@
 {
-  "displayName": "My Awesome Electron App",
-  "name": "my-awesome-electron-app",
-  "description": "Your awesome app description",
-  "version": "2.0.3",
+  "displayName": "Flutter DevTools Electron App",
+  "name": "flutter-devtools-electron-app",
+  "description": "Flutter DevTools",
+  "version": "0.0.1",
   "main": "./node_modules/.dev/main/index.js",
   "resources": "src/resources",
   "author": {
-    "name": "Dalton Menezes",
-    "email": "daltonmenezes@outlook.com"
+    "name": "Kim, Hansoo",
+    "email": "keiches@gmail.com"
   },
   "license": "MIT",
   "scripts": {
